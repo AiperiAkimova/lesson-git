@@ -1,0 +1,14 @@
+.item{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    font-size: 25px;
+    color: white;
+}
+h2{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
